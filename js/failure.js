@@ -25,22 +25,12 @@ $(function () {
         '{\"mode\":\"-\",\"delay\":560},' +
         '{\"mode\":\"+\",\"content\":\"馁\",\"delay\":137},' +
         '{\"mode\":\"+\",\"content\":\"，\",\"delay\":311},' +
-        '{\"mode\":\"+\",\"content\":\"虽\",\"delay\":191},' +
-        '{\"mode\":\"+\",\"content\":\"然\",\"delay\":105},' +
-        '{\"mode\":\"+\",\"content\":\"我\",\"delay\":416},' +
-        '{\"mode\":\"+\",\"content\":\"是\",\"delay\":112},' +
-        '{\"mode\":\"+\",\"content\":\"1\",\"delay\":95},' +
-        '{\"mode\":\"+\",\"content\":\"7\",\"delay\":196},' +
-        '{\"mode\":\"+\",\"content\":\"个\",\"delay\":206},' +
-        '{\"mode\":\"+\",\"content\":\"失\",\"delay\":223},' +
-        '{\"mode\":\"+\",\"content\":\"败\",\"delay\":223},' +
-        '{\"mode\":\"+\",\"content\":\"当\",\"delay\":88},' +
-        '{\"mode\":\"+\",\"content\":\"中\",\"delay\":71},' +
-        '{\"mode\":\"+\",\"content\":\"的\",\"delay\":223},' +
-        '{\"mode\":\"+\",\"content\":\"一\",\"delay\":96},' +
-        '{\"mode\":\"+\",\"content\":\"个\",\"delay\":223},' +
-        '{\"mode\":\"+\",\"content\":\"，\",\"delay\":185},' +
-        '{\"mode\":\"+\",\"content\":\"但\",\"delay\":152},' +
+        '{\"mode\":\"+\",\"content\":\"继\",\"delay\":191},' +
+        '{\"mode\":\"+\",\"content\":\"续\",\"delay\":105},' +
+        '{\"mode\":\"+\",\"content\":\"努\",\"delay\":416},' +
+        '{\"mode\":\"+\",\"content\":\"力\",\"delay\":112},' +
+        '{\"mode\":\"+\",\"content\":\"吧\",\"delay\":95},' +
+        '{\"mode\":\"+\",\"content\":\"，\",\"delay\":196},' +
         '{\"mode\":\"+\",\"content\":\"终\",\"delay\":96},' +
         '{\"mode\":\"+\",\"content\":\"究\",\"delay\":136},' +
         '{\"mode\":\"+\",\"content\":\"有\",\"delay\":760},' +
