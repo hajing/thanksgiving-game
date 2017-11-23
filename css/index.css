@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    padding: 50px;
+}
+
+h1 {
+    margin: 20px 0;
+    font-weight: lighter;
+}
+
+p {
+    height: 40px;
+}
+
+#header {
+    background: linear-gradient(120deg, #ABDCFF, #0396FF);
+    text-align: center;
+    color: #fff;
+    padding: 40px 10px;
+    border-radius: 18px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+#header_success {
+    background: linear-gradient(120deg, #79F1A4, #0E5CAD);
+    text-align: center;
+    color: #fff;
+    padding: 40px 10px;
+    border-radius: 18px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+#header_failure {
+    background: linear-gradient(120deg, #FAD7A1, #E96D71);
+    text-align: center;
+    color: #fff;
+    padding: 40px 10px;
+    border-radius: 18px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+img {
+    width: 63%;
+}
+
+.infomation {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.infomation ul {
+    text-align: left;
+}
+
+#typewriter {
+    opacity: 0.7;
+}
+
+#cursor {
+    margin-left: 1px;
+    border-left: 3px solid #fff;
+    color: transparent;
+    animation: blink 1.3s infinite;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    60% { opacity: 0; }
+    90% { opacity: 0; }
+    100% { opacity: 1; }
+}
