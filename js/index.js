@@ -6,7 +6,7 @@ $(function () {
         var keycode = event.which;
         if (keycode == 13) {
             var url_value = $("#inputinfo").val();
-            if(url_value != 'standard'){
+            if(url_value != 'dingjust'){
                 window.open('https://hajing.github.io/thanksgiving-game/success.html', "_blank");
             }else {
                 var url_open = 'https://hajing.github.io/thanksgiving-game/' + url_value + '.html';
